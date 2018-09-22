@@ -1,11 +1,16 @@
 _repo: The-Battle-of-the-Marne_55221
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55221-h/images/cover.jpg
 creator:
   author:
     agent_name: Perris, George Herbert
     gutenberg_agent_id: '48233'
     url: http://www.gutenberg.org/2009/agents/48233
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55221#The-Battle-of-the-Marne
 gutenberg_issued: '2017-07-29'
 gutenberg_type: Text
 identifiers:
